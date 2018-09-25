@@ -1,3 +1,7 @@
+# something
+#https://github.com/ggarvey-python/quandl/edit/master/data%20analysis%202.py
+#thak you
+
 import quandl
 import pandas as pd
 
